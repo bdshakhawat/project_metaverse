@@ -185,7 +185,7 @@ Example:
 
 - GitHub: [@bdshakhawat](https://github.com/bdshakhawat)
 - Twitter: [@bdshakwat](https://twitter.com/bdshakwat)
-- LinkedIn: [shakawat-hossain](https://www.linkedin.com/in/shakawat-hossain)
+- LinkedIn: [shakawat-hossain]([https://www.linkedin.com/in/shakawat-hossain-04380130](https://www.linkedin.com/in/shakawat-hossain-04380130/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
